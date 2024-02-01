@@ -1,0 +1,7 @@
+D:\2. Uni work\C#\code\evenOdd\bin\Debug\evenOdd.exe.config
+D:\2. Uni work\C#\code\evenOdd\bin\Debug\evenOdd.exe
+D:\2. Uni work\C#\code\evenOdd\bin\Debug\evenOdd.pdb
+D:\2. Uni work\C#\code\evenOdd\obj\Debug\evenOdd.csproj.AssemblyReference.cache
+D:\2. Uni work\C#\code\evenOdd\obj\Debug\evenOdd.csproj.CoreCompileInputs.cache
+D:\2. Uni work\C#\code\evenOdd\obj\Debug\evenOdd.exe
+D:\2. Uni work\C#\code\evenOdd\obj\Debug\evenOdd.pdb
