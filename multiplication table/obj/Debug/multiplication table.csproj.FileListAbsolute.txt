@@ -1,0 +1,7 @@
+D:\2. Uni work\C#\code\multiplication table\bin\Debug\multiplication table.exe.config
+D:\2. Uni work\C#\code\multiplication table\bin\Debug\multiplication table.exe
+D:\2. Uni work\C#\code\multiplication table\bin\Debug\multiplication table.pdb
+D:\2. Uni work\C#\code\multiplication table\obj\Debug\multiplication table.csproj.AssemblyReference.cache
+D:\2. Uni work\C#\code\multiplication table\obj\Debug\multiplication table.csproj.CoreCompileInputs.cache
+D:\2. Uni work\C#\code\multiplication table\obj\Debug\multiplication table.exe
+D:\2. Uni work\C#\code\multiplication table\obj\Debug\multiplication table.pdb
