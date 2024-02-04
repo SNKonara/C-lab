@@ -1,0 +1,7 @@
+D:\2. Uni work\C#\code\fibbonacci\bin\Debug\fibbonacci.exe.config
+D:\2. Uni work\C#\code\fibbonacci\bin\Debug\fibbonacci.exe
+D:\2. Uni work\C#\code\fibbonacci\bin\Debug\fibbonacci.pdb
+D:\2. Uni work\C#\code\fibbonacci\obj\Debug\fibbonacci.csproj.AssemblyReference.cache
+D:\2. Uni work\C#\code\fibbonacci\obj\Debug\fibbonacci.csproj.CoreCompileInputs.cache
+D:\2. Uni work\C#\code\fibbonacci\obj\Debug\fibbonacci.exe
+D:\2. Uni work\C#\code\fibbonacci\obj\Debug\fibbonacci.pdb
