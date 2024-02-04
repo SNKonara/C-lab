@@ -1,0 +1,7 @@
+D:\2. Uni work\C#\code\sum of integer\bin\Debug\sum of integer.exe.config
+D:\2. Uni work\C#\code\sum of integer\bin\Debug\sum of integer.exe
+D:\2. Uni work\C#\code\sum of integer\bin\Debug\sum of integer.pdb
+D:\2. Uni work\C#\code\sum of integer\obj\Debug\sum of integer.csproj.AssemblyReference.cache
+D:\2. Uni work\C#\code\sum of integer\obj\Debug\sum of integer.csproj.CoreCompileInputs.cache
+D:\2. Uni work\C#\code\sum of integer\obj\Debug\sum of integer.exe
+D:\2. Uni work\C#\code\sum of integer\obj\Debug\sum of integer.pdb
