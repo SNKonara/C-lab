@@ -1,0 +1,7 @@
+D:\2. Uni work\C#\code\student mark\bin\Debug\student mark.exe.config
+D:\2. Uni work\C#\code\student mark\bin\Debug\student mark.exe
+D:\2. Uni work\C#\code\student mark\bin\Debug\student mark.pdb
+D:\2. Uni work\C#\code\student mark\obj\Debug\student mark.csproj.AssemblyReference.cache
+D:\2. Uni work\C#\code\student mark\obj\Debug\student mark.csproj.CoreCompileInputs.cache
+D:\2. Uni work\C#\code\student mark\obj\Debug\student mark.exe
+D:\2. Uni work\C#\code\student mark\obj\Debug\student mark.pdb
