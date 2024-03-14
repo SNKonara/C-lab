@@ -1,0 +1,14 @@
+D:\2. Uni work\C#\code\inventry system\inventry system\bin\Debug\net8.0\inventry system.exe
+D:\2. Uni work\C#\code\inventry system\inventry system\bin\Debug\net8.0\inventry system.deps.json
+D:\2. Uni work\C#\code\inventry system\inventry system\bin\Debug\net8.0\inventry system.runtimeconfig.json
+D:\2. Uni work\C#\code\inventry system\inventry system\bin\Debug\net8.0\inventry system.dll
+D:\2. Uni work\C#\code\inventry system\inventry system\bin\Debug\net8.0\inventry system.pdb
+D:\2. Uni work\C#\code\inventry system\inventry system\obj\Debug\net8.0\inventry system.GeneratedMSBuildEditorConfig.editorconfig
+D:\2. Uni work\C#\code\inventry system\inventry system\obj\Debug\net8.0\inventry system.AssemblyInfoInputs.cache
+D:\2. Uni work\C#\code\inventry system\inventry system\obj\Debug\net8.0\inventry system.AssemblyInfo.cs
+D:\2. Uni work\C#\code\inventry system\inventry system\obj\Debug\net8.0\inventry system.csproj.CoreCompileInputs.cache
+D:\2. Uni work\C#\code\inventry system\inventry system\obj\Debug\net8.0\inventry system.dll
+D:\2. Uni work\C#\code\inventry system\inventry system\obj\Debug\net8.0\refint\inventry system.dll
+D:\2. Uni work\C#\code\inventry system\inventry system\obj\Debug\net8.0\inventry system.pdb
+D:\2. Uni work\C#\code\inventry system\inventry system\obj\Debug\net8.0\inventry system.genruntimeconfig.cache
+D:\2. Uni work\C#\code\inventry system\inventry system\obj\Debug\net8.0\ref\inventry system.dll
