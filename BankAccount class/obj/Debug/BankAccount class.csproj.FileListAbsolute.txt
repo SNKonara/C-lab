@@ -1,0 +1,7 @@
+D:\2. Uni work\C#\code\BankAccount class\bin\Debug\BankAccount class.exe.config
+D:\2. Uni work\C#\code\BankAccount class\bin\Debug\BankAccount class.exe
+D:\2. Uni work\C#\code\BankAccount class\bin\Debug\BankAccount class.pdb
+D:\2. Uni work\C#\code\BankAccount class\obj\Debug\BankAccount class.csproj.AssemblyReference.cache
+D:\2. Uni work\C#\code\BankAccount class\obj\Debug\BankAccount class.csproj.CoreCompileInputs.cache
+D:\2. Uni work\C#\code\BankAccount class\obj\Debug\BankAccount class.exe
+D:\2. Uni work\C#\code\BankAccount class\obj\Debug\BankAccount class.pdb
