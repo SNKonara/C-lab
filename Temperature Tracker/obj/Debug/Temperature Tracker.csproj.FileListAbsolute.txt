@@ -1,0 +1,2 @@
+D:\2. Uni work\C#\code\Temperature Tracker\obj\Debug\Temperature Tracker.csproj.AssemblyReference.cache
+D:\2. Uni work\C#\code\Temperature Tracker\obj\Debug\Temperature Tracker.csproj.CoreCompileInputs.cache
